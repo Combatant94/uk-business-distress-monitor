@@ -1,11 +1,18 @@
 # UK Business Distress Monitor
 
 End-to-end SQL + Python analysis of **220,650 official UK company insolvency records** (Jan 2016 – Aug 2026), validated against published UK Insolvency Service statistics and combined with ONS business-population data to measure where corporate distress is really concentrated — not just where the raw case count is highest.
-🖥️ *[Live interactive dashboard](https://combatant94.github.io/uk-business-distress-monitor/dashboard/)* — explore all 272 industries, sort by volume or population-adjusted risk rate, click through to each industry's 2016–2025 trend
-📄 *[Read the full report (PDF)](reports/UK_Business_Distress_Monitor_Report.pdf)* — plain-English write-up for a non-technical audience
-📝 *[Project walkthrough](WALKTHROUGH.md)** — what was done at each stage and why, including the model sanity-checks
-📓 *[Full analysis notebook](notebooks/uk_business_distress_analysis.ipynb)* — every step, from raw data to model
-🗄️ *[SQL scripts](sql/)* — schema, dimension build, and the analytical views/queries behind the findings
+
+🖥️ **[Live interactive dashboard](https://combatant94.github.io/uk-business-distress-monitor/dashboard/)** — explore all 272 industries, sort by volume or population-adjusted risk rate, click through to each industry's 2016–2025 trend
+
+📄 **[Read the full report (PDF)](reports/UK_Business_Distress_Monitor_Report.pdf)** — plain-English write-up for a non-technical audience
+
+📝 **[Project walkthrough](WALKTHROUGH.md)** — what was done at each stage and why, including the model sanity-checks
+
+📓 **[Full analysis notebook](notebooks/uk_business_distress_analysis.ipynb)** — every step, from raw data to model
+
+
+🗄️ **[SQL scripts](sql/)** — schema, dimension build, and the analytical views/queries behind the findings
+
               
 ---
 
