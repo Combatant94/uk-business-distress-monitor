@@ -7,7 +7,7 @@ End-to-end SQL + Python analysis of **220,650 official UK company insolvency rec
 📝 **[Project walkthrough](WALKTHROUGH.md)** — what was done at each stage and why, including the model sanity-checks
 📓 **[Full analysis notebook](notebooks/uk_business_distress_analysis.ipynb)** — every step, from raw data to model
 🗄️ **[SQL scripts](sql/)** — schema, dimension build, and the analytical views/queries behind the findings
-
+              
 ---
 
 ## What this project does
