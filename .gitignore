@@ -1,0 +1,24 @@
+# Raw source data (not included in repo — see README for data sources)
+*.csv
+*.xls
+*.xlsx
+!requirements.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials — never commit these
+.env
+*.pem
