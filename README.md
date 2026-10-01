@@ -1,5 +1,7 @@
 # UK Business Distress Monitor
 
+<img width="700" height="467" alt="image" src="https://github.com/user-attachments/assets/9b40d529-03ff-4824-8ef7-9d49750f2fb2" />
+
 End-to-end SQL + Python analysis of **220,650 official UK company insolvency records** (Jan 2016 – Aug 2026), validated against published UK Insolvency Service statistics and combined with ONS business-population data to measure where corporate distress is really concentrated — not just where the raw case count is highest.
 
 🖥️ **[Live interactive dashboard](https://combatant94.github.io/uk-business-distress-monitor/dashboard/)** — explore all 272 industries, sort by volume or population-adjusted risk rate, click through to each industry's 2016–2025 trend
